@@ -1,0 +1,8 @@
+{
+  "name": "Depom",
+  "description": "Kendi Cloudstream eklenti depom",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/KULLANICI/DEPO/builds/plugins.json"
+  ]
+}
